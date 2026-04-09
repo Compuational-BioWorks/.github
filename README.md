@@ -1,3 +1,4 @@
+![CBW Logo](assets/logo.jpg)
 # Computational BioWorks (CBW) 🧬💻
 
 Bridging the Gap Between Code and Biology.
